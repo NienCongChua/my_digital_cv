@@ -1,3 +1,0 @@
-# My digital portfolio
-
-## Introduction
